@@ -13,7 +13,7 @@ import math
 import threading
 import random
 
-#Strategy: buy when price breaks lower highs and higher lows and breaks the RSMA
+
 
 
 # class for Interactive brokers connection
